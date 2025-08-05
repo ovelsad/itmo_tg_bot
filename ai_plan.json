@@ -1,0 +1,1266 @@
+{
+  "semesters": {
+    "1": [
+      {
+        "name": "Воркшоп по созданию продукта на данных / Data Product Development Workshop",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Практика применения машинного обучения",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Алгоритмы и структуры данных",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Математическая статистика",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Разработка веб-приложений (Python Backend)",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Программирование на С++",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Введение в МО (Python) и Продвинутое МО (Python)",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Технологии обработки естественного языка",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Автоматическое машинное обучение",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Обработка и генерация изображений",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Проектирование и разработка рекомендательных систем (продвинутый уровень)",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Основы глубокого обучения",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Продвинутое МО (Python) и Глубокое обучение",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Введение в большие языковые модели (LLM)",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Проектирование систем машинного обучения (ML System Design)",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Проектирование микросервисов",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Хранение больших данных и Введение в МО (Python)",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Вычисления на графических процессорах (GPU)",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "UNIX/Linux системы",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Инструменты разработки data-driven решений",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Контейнеризация и оркестрация приложений",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Продуктовые исследования",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Графические интерфейсы",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Создание интеллектуальных агентов",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Прикладной анализ временных рядов",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Процессы и методологии разработки решений на основе ИИ",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Инжиниринг управления данными",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Бизнес-аналитика для инженеров",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Математика для машинного обучения и анализа данных",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Языки программирования",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Основы машинного обучения",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Инженерные практики в ML и анализе данных",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Дополнительные разделы машинного обучения",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Базы данных",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Русский язык как иностранный / Russian as a foreign language",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Английский язык в профессиональной деятельности / English for specific purposes",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Английский язык A2 / English A2",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Английский язык A1 / English A1",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Основы концептуального мышления / Introduction to Conceptual Thinking",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Основы концептуального мышления",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Иностранный язык / Foreign Language",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Проектная практика",
+        "credits": 12,
+        "hours": 432,
+        "is_elective": false
+      },
+      {
+        "name": "Регуляция эмоционального состояния в профессиональной деятельности",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      }
+    ],
+    "2": [
+      {
+        "name": "Глубокое обучение на практике",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Воркшоп по прикладному использованию языковых и генеративных моделей",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Глубокие генеративные модели (Deep Generative Models)",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Дополнительные разделы математики и алгоритмов",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Программирование на Python (продвинутый уровень)",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "DevOps практики и инструменты",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Технологии и практики MLOps",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Продвинутое МО (Python) и Автоматическая обработка текстов",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Продвинутое МО (Python) и Обработка изображений",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Прикладная математика и статистика / Applied Math and Statistics",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Автоматическая обработка текстов и Социальные сети",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Специальные главы геномики",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Специальные главы биоинформатики",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Нейросети в химии / Neural Networks in Chemistry",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Обучение с подкреплением",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Интеллектуальные агенты и большие языковые модели",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Разработка приложений разговорного искусственного интеллекта",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Распознавание и генерация речи",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Технологии обработки естественного языка",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Компьютерное зрение (продвинутый уровень)",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Технологии компьютерного зрения",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Обработка изображений и Компьютерное зрение",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Автоматическая обработка текстов и Обработка изображений",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "А/В тестирование",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Информационный поиск",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Управление данными",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Сбор и разметка данных для машинного обучения",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Проектирование систем машинного обучения (ML System Design)",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Безопасность ИИ",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Управление проектами в Data Science",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Продуктовый дизайн и прототипирование AI-решений",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Бизнес-анализ",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Практики менторства и развития в Data Science",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Основы построения рекомендательных систем",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Инженерия данных",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Системы обработки и анализа больших массивов данных",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Управление технологическим продуктом",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Языки программирования для работы с данными",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Машинное обучение",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Задачи машинного обучения",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Обработка естественного языка",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Английский язык в профессиональной деятельности / English for specific purposes",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Русский язык как иностранный / Russian as a foreign language",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Английский язык A2 / English A2",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Английский язык A1 / English A1",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Иностранный язык / Foreign Language",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Проектная практика",
+        "credits": 12,
+        "hours": 432,
+        "is_elective": false
+      },
+      {
+        "name": "Научно-исследовательская практика",
+        "credits": 12,
+        "hours": 432,
+        "is_elective": false
+      }
+    ],
+    "3": [
+      {
+        "name": "Алгоритмы и структуры данных",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Математическая статистика",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Прикладной анализ временных рядов",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Разработка веб-приложений (Python Backend)",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Программирование на С++",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Введение в МО (Python) и Продвинутое МО (Python)",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Технологии обработки естественного языка",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Автоматическое машинное обучение",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Обработка и генерация изображений",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Проектирование и разработка рекомендательных систем (продвинутый уровень)",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Глубокое обучение",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Продвинутое МО (Python) и Глубокое обучение",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Введение в большие языковые модели (LLM)",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Мультимодальные генеративные модели искусственного интеллекта",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Проектирование систем машинного обучения (ML System Design)",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Проектирование микросервисов",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Хранение больших данных и Введение в МО (Python)",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Базы данных",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Вычисления на графических процессорах (GPU)",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "UNIX/Linux системы",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Инструменты разработки data-driven решений",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Контейнеризация и оркестрация приложений",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Продуктовые исследования",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Графические интерфейсы",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Воркшоп по применению ИИ",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Мастерская по проектам для работы с данными",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Инжиниринг управления данными",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Прикладная математика для машинного обучения",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Языки программирования. Продвинутый уровень",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Продвинутое машинное обучение",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Прикладные задачи машинного обучения",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Бизнес-аналитика",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Прикладные инструменты разработки",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Процессы и методологии разработки решений на основе ИИ",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Стартап-трек: от mvp до бизнеса",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Создание и развитие технологического бизнеса",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Критическое мышление (продвинутый уровень)",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Навыки критического мышления (продвинутый уровень) / Critical Thinking Skills (advanced)",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Этика в сфере информационных технологий и искусственного интеллекта",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "История и философия науки",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Производственная проектно-технологическая практика",
+        "credits": 12,
+        "hours": 432,
+        "is_elective": false
+      },
+      {
+        "name": "Производственная, научно-исследовательская практика",
+        "credits": 12,
+        "hours": 432,
+        "is_elective": false
+      },
+      {
+        "name": "Иностранный язык в профессиональной деятельности / Foreign Language for Professional activity",
+        "credits": 4,
+        "hours": 144,
+        "is_elective": false
+      }
+    ],
+    "4": [
+      {
+        "name": "Воркшоп по прикладному использованию языковых и генеративных моделей",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Глубокие генеративные модели (Deep Generative Models)",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Дополнительные разделы математики и алгоритмов",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Программирование на Python (продвинутый уровень)",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "DevOps практики и инструменты",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Технологии и практики MLOps",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Продвинутое МО (Python) и Автоматическая обработка текстов",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Продвинутое МО (Python) и Обработка изображений",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Прикладная математика и статистика / Applied Math and Statistics",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Автоматическая обработка текстов и Социальные сети",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Специальные главы геномики",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Специальные главы биоинформатики",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Нейросети в химии / Neural Networks in Chemistry",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Обучение с подкреплением",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Интеллектуальные агенты и большие языковые модели",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Разработка приложений разговорного искусственного интеллекта",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Распознавание и генерация речи",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Технологии обработки естественного языка",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Компьютерное зрение (продвинутый уровень)",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Технологии компьютерного зрения",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Обработка изображений и Компьютерное зрение",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Автоматическая обработка текстов и Обработка изображений",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "А/В тестирование",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Основы построения рекомендательных систем",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Управление данными",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Инженерия данных",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Сбор и разметка данных для машинного обучения",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Системы обработки и анализа больших массивов данных",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Проектирование систем машинного обучения (ML System Design)",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Безопасность ИИ",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Управление проектами в Data Science",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Продуктовый дизайн и прототипирование AI-решений",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Практики менторства и развития в Data Science",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Бизнес-анализ",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Информационный поиск",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Воркшоп по ML",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Языки программирования для работы с данными. Продвинутый уровень",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Продвинутое машинное обучение - дополнительные главы",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Применение машинного обучения в доменных областях",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Глубокое обучение и обработка естественного языка",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Управление технологическим продуктом",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": false
+      },
+      {
+        "name": "Производственная, преддипломная практика",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      },
+      {
+        "name": "Проектная работа",
+        "credits": 12,
+        "hours": 432,
+        "is_elective": false
+      },
+      {
+        "name": "Научно-исследовательская работа",
+        "credits": 12,
+        "hours": 432,
+        "is_elective": false
+      },
+      {
+        "name": "Подготовка к защите и защита ВКР",
+        "credits": 6,
+        "hours": 216,
+        "is_elective": false
+      }
+    ],
+    "123": [
+      {
+        "name": "Элективные микромодули Soft Skills",
+        "credits": 3,
+        "hours": 108,
+        "is_elective": true
+      },
+      {
+        "name": "Управление мотивацией",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Инструменты принятия решений / Art & math of decision making",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Медиация и урегулирование разногласий / Mediation and dispute resolutio",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Развитие карьеры в современной профессиональной среде",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Выступления для молодых ученых",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Самопрезентация и питчинг",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Современное лидерство",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Межкультурная коммуникация",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Работа в удаленных командах",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Публичные выступления в онлайн-формате",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Техники ответов на вопросы в публичных выступлениях",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Публичные выступления в профессиональной деятельности / Pitches and speeches",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Доказательный подход к управлению карьерой / Evidence-based approach to career management",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Планирование и изменение карьерной траектории / Launching and relaunching your career",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Основы публичных выступлений",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Сторителлинг",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Стратегии эффективных переговоров с работодателем",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Управление стрессом / Stress management",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Практики совместной работы и принятия решений",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Сложная коммуникация",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Основы финансовой грамотности",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Целеполагание в современном мире",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Управление стрессом и профилактика выгорания",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Тайм-менеджмент",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Управление конфликтами",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Современная бизнес-коммуникация",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Карьера в IT",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      },
+      {
+        "name": "Эмпатичная коммуникация / Empathetic communication",
+        "credits": 1,
+        "hours": 36,
+        "is_elective": false
+      }
+    ]
+  },
+  "stats": {
+    "total_semesters": 5,
+    "total_courses": 208
+  }
+}
