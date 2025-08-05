@@ -24,5 +24,7 @@ pdfplumber для парсинга PDF
 
 JSON для хранения структурированных данных
 
+### Ссылка на бота: @Itmo_EduHelper_Bot
+
 ## Пример функционирования бота
 <img width="480" height="869" alt="image" src="https://github.com/user-attachments/assets/07e7777e-b745-4cab-8a62-0981460b6cda" />
