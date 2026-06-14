@@ -1,10 +1,15 @@
+import os
 import telebot
 from telebot import types
 import json
 import re
+from dotenv import load_dotenv
 
 # Инициализация бота
-TOKEN = '8330544117:AAEe9EViYiydDbG64MS68C0KBQsVE0bFsM0'
+load_dotenv()
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+if not TOKEN:
+    raise RuntimeError("TELEGRAM_BOT_TOKEN is not set. Create a .env file from .env.example.")
 bot = telebot.TeleBot(TOKEN)
 
 # Загрузка данных учебных планов
