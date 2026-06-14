@@ -28,3 +28,10 @@ JSON для хранения структурированных данных
 
 ## Пример функционирования бота
 <img width="480" height="869" alt="image" src="https://github.com/user-attachments/assets/07e7777e-b745-4cab-8a62-0981460b6cda" />
+
+---
+
+## Author
+
+**Oleg Sadykhov** — M.Sc. student, Faculty of AI Technologies (AI in Industry track), ITMO University, Saint Petersburg, Russia
+[ovelsad23@gmail.com](mailto:ovelsad23@gmail.com) · [github.com/ovelsad](https://github.com/ovelsad)
